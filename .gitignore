@@ -1,2 +1,4 @@
 *.mscz.autosave
 .mscbackup/*
+
+.DS_Store
