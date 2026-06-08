@@ -1,6 +1,6 @@
 
-CCAS Big Band 26th July 2026 @ Corn Exchange Set List
-=====================================================
+CCAS Big Band 26th July 2026 @ Corn Exchange Set List.  Last update 8/6/2026
+============================================================================
 
 First Set
 =========
@@ -79,6 +79,16 @@ Ballymac (G) x3 / Pachebel's Frolics (D) x3
 Moll Roe (G) x2 / Farewell to Whalley Range (F#m) x3
 All straight in 
 2 mins 30 secs
+
+
+
+Changes
+=======
+
+8/6/2026
+OXO set: structure clarified.
+Blaydon Races: removed BR 2-bars in D at beginning, added BR 1-bar G-A-D at end.
+
 
 
 
