@@ -1,36 +1,36 @@
 
-CCAS Big Band 26th July 2026 @ Corn Exchange Set List.  Last update 8/6/2026
-============================================================================
+CCAS Big Band 26th July 2026 @ Corn Exchange Set List.  Last update 19/7/2026
+=============================================================================
 
 First Set
 =========
 1. Play on
 ----------
-The Kesh Jig (G) x2
+The Kesh Jig (G)x2
 4 bars bodhran; 4 bars drone (wind); Everybody in x 2 
 1 min 20 secs
 
-2. Virginia Reel
-----------------
-Oh Susanna (G) x2 / Brighton Camp (G) x2 / The Rose Tree (D) x2
+2. Virginia Reel (Go-round)
+---------------------------
+Oh Susanna (G)x2 / Brighton Camp (G)x2 / The Rose Tree (D)x2 -> b
 4 bars in; Final note repeat and hold 
 3 mins 30 secs
 
 3. The Quaker's Wife
 --------------------
-The Quaker's Wife (D) x2 / The Old Favourite (G) x2 / Garret Barry's (D) x2/ Lisnagun (G) x2
+The Quaker's Wife (D)x2 / The Old Favourite (G)x2 / Garret Barry's (D)x2/ Lisnagun (G)x2 -> d
 4 bars in; Final note, repeat, and hold
 4 mins 40 secs
 
 4. Oxo Reel (new)
 -----------------
-Quebec Donkey (G) x2 / Dennis Murphy’s (D) x2 / John Ryan's (D) x2 
-4 bars in; John Ryan's 1st time A part horns call/response; 2nd time A part bodhran solo; Outro: stabsx2
+Quebec Donkey (G)x2 / Dennis Murphy’s (D)x2 / John Ryan's (D)x2 -> D
+4 bars in; John Ryan's 1st time A part bodhran solo; 2nd time all; Outro: stabsx2
 4 mins 40 secs
 
-5.Sweets of May (new)
----------------------
-Mooncoin Jig (A) x2 / Seanamhac Tube Station (Gdor) x2
+5.Sweets of May (Go-round)
+--------------------------
+Mooncoin Jig (A) x2 / Seanamhac Tube Station (Gdor)x2 -> c#
 4 bars in
 
 6. I Want To Be Near You
@@ -40,55 +40,56 @@ D x 4; G x 2 (stop); A x 1; done twice
 2 mins 20 secs
 
 
+
+
+
+
+
+
+
 Second Set
 ==========
 
-1. Play on (new)
-----------------
-Ciel d’automne (D) x2
+1. Play on Ciel d’automne (D)x2 / 3rd time A part + A part bars 5-8
+-------------------------------------------------------------------
+Intro: Piano, melody instruments tremolo E-F# or B-C#
+1st time: A1 trumpet + tuba | A2 all brass | B1 all | B2 all
+2nd time: A1 all | A2 all | B1 all | B2 all melody + tuba 
+3rd time: A1 melody + tuba + trombone | A2 bars 5-8 only, slowing down
 
-2. All The Way To Galway
-------------------------
-All The Way To Galway (D) x2 / Tralee Gaol (Am) 2nd time clapping / Egan's (D) x2
+2. All The Way To Galway (Go-round)
+-----------------------------------
+All The Way To Galway (D)x2 / Tralee Gaol (Am) 2nd time claps / Egan's (D)x2 -> A
 4 bars in; Final note repeat and hold.
 3 mins 30 secs
 
-3. Bridge of Athlone
---------------------
-Coppers and Brass (G) x2 / Dusty Windowsills (Am) x2 / Banish Misfortune (G) x2
+3. Bridge of Athlone (Go-round)
+-------------------------------
+Coppers and Brass (G)x2 / Dusty Windowsills (Am)x2 / Banish Misfortune (G)x2 -> b
 4 bars in
 5 mins 30 secs
 
-4. Blaydon Races (new)
-----------------------
-Blaydon Races (C) x2 (D) x2 / Keep your feet still Geordie Hinney (G) x2 / Blaydon Races (G) x2 
+4. Blaydon Races  (Go-round)
+----------------------------
+Blaydon Races (C)x2 / Keep your feet still Geordie Hinney (G)x2 / Blaydon Races (G)x2 / (A)xn
+Start speed up in Blaydon (G)
 
 5. Cumberland Square
 --------------------
-The Centenary (D) x2 / Lark In The Morning (D) x2
+The Centenary (D)x2 (2 A parts, 2 B parts) / Lark In The Morning (D)x2
 4 bars in
 4 mins 20 secs
 
-6. Circassian (new)
--------------------
-Ballymac (G) x3 / Pachebel's Frolics (D) x3
+6. Circassian  (Go-round on Pachelbel) only
+-------------------------------------------
+Ballymac (G)x3 / Pachebel's Frolics (D)x3 ->D
 4 bars in
 
 7. Playout Set
 --------------
-Moll Roe (G) x2 / Farewell to Whalley Range (F#m) x3
+Moll Roe (G)x3 / Farewell to Whalley Range (F#m)x3 (2 stabs)
 All straight in 
+If used as a dance add Foxhunters x 3 to start
 2 mins 30 secs
-
-
-
-Changes
-=======
-
-8/6/2026
-OXO set: structure clarified.
-Blaydon Races: removed BR 2-bars in D at beginning, added BR 1-bar G-A-D at end.
-
-
 
 
